@@ -8,6 +8,8 @@ link:00._Course_Material/00._Meta_Course_Material/about_the_exam.md[About the ex
 
 == Semester Plan
 
+The semester is subject to future modifications and updates during the semester.
+
 [width="100%",cols="15%,7%,23%,30%,25%",options="header",]
 |===
 | Title | Date | Description | Learning Goals | Resources and Activities
@@ -150,6 +152,7 @@ link:00._Course_Material/01._Assignments/06._Real-time_communication_Part_IV/06a
 | April 11th
 a|
 * Multi-part Forms
+* Sound
 * MPEG-DASH
 a|
 * Knows how to send multi-part forms over HTML and how to set it up in at least one server language.
@@ -165,29 +168,70 @@ a|
 * Backing up MySQL
 * Documenting MySQL
 * Database Migrations
+* Redis (Fundamentals)
 a|
 * Can document and backup MySQL
 * Has considered how to document the databases they are familiar with.
-* Can do architecture diagrams in their favorite tool.
+* Can list several of the things that Redis can be used for.  
+* Can do basic operations in Redis in the CLI with help. 
 a|
 link:00._Course_Material/01._Assignments/08._Database_Integration/08a._Document_A_Database.md[08a Document A Database]
 
-link:00._Course_Material/01._Assignments/08._Database_Integration/08b._Migrate_From_One_Database_To_Another.md[08b. Migrate From One Database To Another]
+link:00._Course_Material/01._Assignments/08._Database_Integration/08b._Migrate_From_One_Database_To_Another.md[08b Migrate From One Database To Another]
+
+link:00._Course_Material/01._Assignments/08._Database_Integration/08c._Auth_Integration.md[08c Auth Integration]
 
 
-| 9. Documentation
+| 9. Documentation / Event-driven architecture
 | April 25th
 a|
-* OpenAPI
-* API Monitors
+* link:00._Course_Material/02._Slides/OpenAPI/01._OpenAPI.md[OpenAPI Slides]
+* Redis is Node.js and Python
+* Redis (Advanced)
+* Redis Pub/sub
+* Redis Streams
+* Event-driven architecture
 a|
 * Can generate OpenAPI documentation in their favorite(s) frameworks.
+* Understand event-driven architecture and what it aims to solve.
+* Can think of cases where event-driven architecture is useful.
+* Understands what Pub/sub and Streams are and can contrast and compare. 
+* Can compare Redis with RabitMQ and Kafka. 
+* Understands the problem that GraphQL solves.
 a|
-link:00._Course_Material/01._Assignments/09._Documentation/00._Service_Level_Agreements.md[00 <DLS Group> Service Level Agreements]
+link:00._Course_Material/01._Assignments/09._Documentation_Event-driven_architecture/00._Service_Level_Agreements.md[00 <DLS Group> Service Level Agreements]
 
-link:00._Course_Material/01._Assignments/09._Documentation/09a._Generate_Code_Documentation_For_DLS.md[09b <DLS Group> Create Code Documentation for DLS]
+link:00._Course_Material/01._Assignments/09._Documentation_Event-driven_architecture/09a._Generate_Code_Documentation_For_DLS.md[09a <DLS Group> Create Code Documentation for DLS]
 
-link:00._Course_Material/01._Assignments/09._Documentation/09b._Create_OpenAPI_Documentation.md[09b <Individual> Create OpenAPI Documentation]
+link:https://www.youtube.com/watch?v=UNUz1-msbOM[Kafka Video]
+
+link:https://www.gentlydownthe.stream/[Gently Down the Stream]
+
+
+| 10. Webscraping / GraphQL / Packaging
+| May 2nd
+a|
+* link:00._Course_Material/02._Slides/Web_Scraping/Web_Scraping_Crawling.md[Web Scraping]
+* Cheerio
+* BeautifulSoup4
+* Scrapy
+* Packaging
+* link:00._Course_Material/02._Slides/GraphQL/GraphQL.md[GraphQL]
+* Exam Q&A
+a|
+* Can explain the difference between data scraping and web crawling. 
+* Can web scrape in a language.
+* Understands the problems that GraphQL solves.
+*  
+a|
+link:00._Course_Material/01._Assignments/10._Web_Scraping_GraphQL/10a._GraphQL.md[10a GraphQL]
+
+link:00._Course_Material/01._Assignments/10._Web_Scraping_GraphQL/10b._Integrate_With_Payment.md[10b Integrate with payment]
+
+link:00._Course_Material/01._Assignments/00._Mandatories/02._Mandatory_II.md[**MANDATORY II**]
+
+link:00._Course_Material/00._Meta_Course_Material/exam_requirements.md[Exam Requirements]
+
 
 
 |===
