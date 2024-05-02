@@ -1,0 +1,1 @@
+from routes.spacecraft import router as spacecraft_router
