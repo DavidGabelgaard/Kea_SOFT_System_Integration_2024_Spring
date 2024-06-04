@@ -1,0 +1,32 @@
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\bin\Debug\net8.0\appsettings.json
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\bin\Debug\net8.0\Web Hooks.exe
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\bin\Debug\net8.0\Web Hooks.deps.json
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\bin\Debug\net8.0\Web Hooks.runtimeconfig.json
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\bin\Debug\net8.0\Web Hooks.dll
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\bin\Debug\net8.0\Web Hooks.pdb
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\Web Hooks.csproj.AssemblyReference.cache
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\Web Hooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\Web Hooks.AssemblyInfoInputs.cache
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\Web Hooks.AssemblyInfo.cs
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\Web Hooks.csproj.CoreCompileInputs.cache
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\Web Hooks.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\Web Hooks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\staticwebassets\msbuild.Web Hooks.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\staticwebassets\msbuild.build.Web Hooks.props
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web Hooks.props
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web Hooks.props
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\scopedcss\bundle\Web Hooks.styles.css
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\Web Hooks.csproj.CopyComplete
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\Web Hooks.dll
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\refint\Web Hooks.dll
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\Web Hooks.pdb
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\Web Hooks.genruntimeconfig.cache
+C:\Users\david\RiderProjects\Web Hooks\Web Hooks\obj\Debug\net8.0\ref\Web Hooks.dll

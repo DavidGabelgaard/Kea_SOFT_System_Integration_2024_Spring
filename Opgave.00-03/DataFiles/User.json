@@ -1,0 +1,26 @@
+{
+	"Users": [
+		{
+			"FirstName": "David",
+			"LastName": "Gabelgaard",
+			"Valid": true,
+			"Address": "Place 4 B",
+			"Age": 24,
+			"Education": [
+				"Computer Scientist",
+				"Software Developer"
+			]
+		},
+		{
+			"FirstName": "Mads",
+			"LastName": "Doe",
+			"Valid": false,
+			"Address": "Right of Place 2 C",
+			"Age": 55,
+			"Education": [
+				"Computer Scientist"
+			]
+		}
+	]
+
+}

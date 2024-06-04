@@ -1,0 +1,19 @@
+<Users>
+	<UserModel>
+		<Address>Place 4 B</Address>
+		<Age>24</Age>
+		<Education>Computer Scientist</Education>
+		<Education>Software Developer</Education>
+		<FirstName>David</FirstName>
+		<LastName>Gabelgaard</LastName>
+		<Valid>true</Valid>
+	</UserModel>
+	<UserModel>
+		<Address>Right of Place 2 C</Address>
+		<Age>55</Age>
+		<Education>Computer Scientist</Education>
+		<FirstName>Mads</FirstName>
+		<LastName>Doe</LastName>
+		<Valid>false</Valid>
+	</UserModel>
+</Users>
